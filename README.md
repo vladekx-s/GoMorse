@@ -1,3 +1,5 @@
+![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
+
 # GoMorse
 
 Переводчик текста в азбуку Морзе с воспроизведением 
