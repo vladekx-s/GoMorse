@@ -3,12 +3,6 @@
 # v2 - GoMorse with Cobra
 
 ```bash
-go build -o gomorse main.go
-
-sudo cp gomorse /usr/local/bin
-```
----
-```bash
 # Перевод текста
 gomorse encode "Hello!"
 
@@ -41,6 +35,8 @@ gomorse encode -h
  - git clone https://github.com/vladekx-s/GoMorse.git
  - cd GoMorse
  - go run main.go
+ - go build -o gomorse main.go
+ - sudo cp gomorse /usr/local/bin
 ---
 ![мемчик](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhjM2JsNGJmYjdneHFrOGU5NHFhZjU0MHBoem1mYzM1cGwxMTR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nULePUoEGPRU9d6/giphy.gif)
 ### Дата: 04.05.2026
